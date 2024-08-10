@@ -4,7 +4,8 @@
 ## Sobre mim
   Olá! Me chamo Gabriel Credendio, atualmente estou cursando Desenvolvimento de Sistemas. Estou desenvolvendo habilidades em tecnologias web e mobile, como HTML, CSS, JavaScript, React, React Native e Firebase.
 
-<img src="https://media.tenor.com/_hUq1BSUsiMAAAAC/cat-cute.gif" alt="Cat Jumping" width="250" height="250">
+## Muito eu
+<img src="https://global.discourse-cdn.com/nubank/original/4X/d/3/1/d31662ada32ce376f5a590dd82bef814954db603.gif" alt="Angry Cat" width="250" height="250">
 
 
 
