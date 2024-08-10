@@ -3,6 +3,7 @@
 
 ## Sobre mim
   Olá! Eu me chamo Gabriel Credendio Furtunato, atualmente estou cursando Desenvolvimento de sistemas na escola SENAI - A. Jacob Lafer. 
+  
     - Tenho profundo conhecimento em: HTML, CSS e JS
 
 ## Muito eu
@@ -30,9 +31,9 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Design
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 <div>
     <a href="https://github.com/credendim">
