@@ -4,16 +4,13 @@
 ## Sobre mim
   Olá! Eu me chamo Gabriel Credendio Furtunato, atualmente estou cursando Desenvolvimento de sistemas na escola SENAI - A. Jacob Lafer. 
   
-    - Tenho profundo conhecimento em: HTML, CSS e JS
+  - Tenho profundo conhecimento em: HTML, CSS e JS
+  - 
 
 ## Muito eu
 <img src="https://global.discourse-cdn.com/nubank/original/4X/d/3/1/d31662ada32ce376f5a590dd82bef814954db603.gif" alt="Angry Cat" width="250" height="250">
 
-
-
-
-
-  ### Tecnologias e Habilidades
+ ### Tecnologias e Habilidades
 
 ## Front-end
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
