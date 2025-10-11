@@ -2,7 +2,7 @@
 
 
 ## Sobre mim
-  Olá! Eu me chamo Gabriel Credendio Furtunato, atualmente estou cursando Analise e Desenvolvimento de sistemas na universidade USCS. 
+  Olá! Eu me chamo Gabriel Credendio Furtunato, atualmente estou cursando Analise e Desenvolvimento de sistemas na universidade USCS. Me formei no curso técnico de Desenvolvimento de Sistemas pela instituição SENAI. Atualmente dedico meu tempo para estudar para certificações AWS, além de projetar projetos pessoais. 
   
   - Tenho profundo conhecimento em: HTML, CSS e JS
   - Liderei pojetos na escola SENAI
@@ -20,6 +20,8 @@
 
 
 ### Back-end
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
