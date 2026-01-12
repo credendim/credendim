@@ -30,10 +30,4 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<div>
-    <a href="https://github.com/credendim">
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=credendim&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
-    </a>
-</div>
-
 </div>
