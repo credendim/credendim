@@ -2,7 +2,7 @@
 
 
 ## Sobre mim
-  Olá! Eu me chamo Gabriel Credendio Furtunato, atualmente estou cursando Analise e Desenvolvimento de sistemas na universidade USCS. Me formei no curso técnico de Desenvolvimento de Sistemas pela instituição SENAI. Atualmente dedico meu tempo para estudar para certificações AWS, além de projetar projetos pessoais. 
+  Olá! Eu me chamo Gabriel Credendio Furtunato, atualmente estou cursando Análise e Desenvolvimento de sistemas na universidade USCS. Me formei no curso técnico de Desenvolvimento de Sistemas pela instituição SENAI. Atualmente dedico meu tempo para estudar para certificações AWS, além de projetos pessoais. 
   
   - Tenho profundo conhecimento em: HTML, CSS e JS
   - Liderei pojetos na escola SENAI
